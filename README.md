@@ -44,7 +44,7 @@ In this journey, we experience the unforgiving nature of time and comprehend the
 ### 🟨 Stage 2
 - Name/Alias: Cat
 - Github account: https://github.com/cathayward 
-- Published webpage for stage 2:
+- Published webpage for stage 2: https://cathayward.github.io/exquisite-corpse-stage-2-Time-Machine-A-Person-s-Lifetime/ 
 
 To make this code interactive, I wanted to make it so the 'time' could be manually manipulated depending on where you click on the screen. The idea behind this is so the persn interacting with this can pick any time, therefore having the ability to skip or reverse certain aspects of one's life.
 
